@@ -4,11 +4,10 @@
   <img height="260" src="https://media.giphy.com/media/C4wk6m8Q04DeDRckhj/giphy.gif"  />
 </div>
 
-###
 
 <p align="left">Testing</p>
 
-###
+
 
 <br clear="both">
 
@@ -17,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&username=moodycats" height="160" alt="languages graph"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
@@ -29,14 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/moodycats/moodycats/blob/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/moodycats/count.svg?"  />
 </div>
 
-###
+
